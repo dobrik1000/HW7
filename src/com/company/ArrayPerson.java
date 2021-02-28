@@ -15,7 +15,7 @@ public class ArrayPerson {
         Person p4 = new Person("Sergey", "Perekyp", Gender.MALE);
         Person p5 = new Person("Nastya", "Reshilova", Gender.FEMALE);
 
-        java.util.ArrayList<Person> Person = new java.util.ArrayList<>();
+        ArrayList<Person> Person = new ArrayList<>();
 
         Person.add(0, p1);
         Person.add(1, p2);
